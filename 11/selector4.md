@@ -101,5 +101,3 @@ Selects elements _inside_ other elements.
 ```
 
 Only elements with class `child` **inside** `.ancestor` will be affected.
-
----

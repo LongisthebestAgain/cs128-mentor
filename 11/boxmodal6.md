@@ -2,6 +2,8 @@
 
 ### What is the Box Model?
 
+![alt text](image/image.png)
+
 Every element on a webpage is a rectangular box made up of:
 
 - **Content** — The text, images, or other content inside the element.
